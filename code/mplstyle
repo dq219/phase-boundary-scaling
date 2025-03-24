@@ -1,0 +1,21 @@
+text.usetex : True
+text.latex.preamble : \usepackage{amsmath}\usepackage{amssymb}\usepackage{upgreek}\usepackage{physics}\usepackage{bm}
+font.family : serif
+font.serif : CMR10
+font.size : 8
+axes.linewidth : 1
+
+xtick.major.width : 1
+xtick.minor.width : 1
+ytick.major.width : 1
+ytick.minor.width : 1
+
+xtick.major.size : 3
+xtick.minor.size : 1.5
+ytick.major.size : 3
+ytick.minor.size : 1.5
+
+xtick.direction : in
+ytick.direction : in
+
+axes.formatter.use_mathtext : True

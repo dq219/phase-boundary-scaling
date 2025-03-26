@@ -1,7 +1,3 @@
-text.usetex : True
-text.latex.preamble : \usepackage{amsmath}\usepackage{amssymb}\usepackage{upgreek}\usepackage{physics}\usepackage{bm}
-font.family : serif
-font.serif : CMR10
 font.size : 8
 axes.linewidth : 1
 
@@ -17,5 +13,3 @@ ytick.minor.size : 1.5
 
 xtick.direction : in
 ytick.direction : in
-
-axes.formatter.use_mathtext : True
